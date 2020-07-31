@@ -32,7 +32,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [R3hab - Hold Me [Bass Boosted]](https://www.youtube.com/watch?v=Ug1L28SFizo)
+- [UnknownHouse | UltimatumGamer [Deutsch | HD]](https://www.youtube.com/watch?v=g0sOeMZLu0U)
+- [Satisfactory | UltimatumGamer [DE | Deutsch] [+ Giveaway]](https://www.youtube.com/watch?v=oKp9BUWQBLA)
+- [World of Warships | Stream](https://www.youtube.com/watch?v=rE_UxUNXQa0)
+- [FreeLife - Official Trailer [Deutsch/HD]](https://www.youtube.com/watch?v=uDO_6B5KmnE)
 <!-- YOUTUBE:END -->
 
 ---
