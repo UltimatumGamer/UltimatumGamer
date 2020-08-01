@@ -1,14 +1,12 @@
 # Hi there, I'm Pedda - aka [UltimatumGamer][website] 👋
 
 ## Projects
-- [Pedda.Digital](https://pedda.digital/)
 - [Zyonic Software](https://zyonicsoftware.com/)
   - [SV-Studios](https://sv-studios.net/)
     - [SV-Studios Paste-Server](https://paste.sv-studios.net/)
     - [SV-Studios Image-Server](https://image.sv-studios.net/)
     - [SV-Studios Stats-Seite](https://stats.sv-studios.net/)
-
-
+- [Pedda.Digital](https://pedda.digital/)
 
 ### Social Media
 
