@@ -1,4 +1,4 @@
-# Hi there, I'm Pedda - aka [UltimatumGamer][website] 👋
+# Hi there, I'm [UltimatumGamer][website] 👋
 
 ## Projects / Websites
 - [Zyonic Software](https://zyonicsoftware.com/)
