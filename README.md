@@ -39,8 +39,6 @@
 
 ---
 
-<br />
-
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [R3hab - Hold Me [Bass Boosted]](https://www.youtube.com/watch?v=Ug1L28SFizo)
