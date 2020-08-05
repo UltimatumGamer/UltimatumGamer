@@ -50,11 +50,11 @@
 
 ---
 
-<img align="left" alt="UltimatumGamer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UltimatumGamer&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" width="50%" alt="UltimatumGamer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UltimatumGamer&show_icons=true&hide_border=true&count_private=true" />
 
 <br />                                                                                                 
 
-<img align="left" alt="UltimatumGamer's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltimatumGamer&hide_border=true&count_private=true" />
+<img align="left" width="50%" alt="UltimatumGamer's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltimatumGamer&hide_border=true&count_private=true" />
 
 <br />
 <br /> 
