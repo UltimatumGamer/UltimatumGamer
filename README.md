@@ -9,7 +9,7 @@
 - [Pedda.Digital](https://pedda.digital/)
 - [UltimatumGamer.tech](https://ultimatumgamer.tech/) (soon)
 
-### Social Media
+## Social Media
 
 [<img align="left" alt="ultimatumgamer | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ultimatumgamer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,23 +37,10 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [R3hab - Hold Me [Bass Boosted]](https://www.youtube.com/watch?v=Ug1L28SFizo)
-- [UnknownHouse | UltimatumGamer [Deutsch | HD]](https://www.youtube.com/watch?v=g0sOeMZLu0U)
-- [Satisfactory | UltimatumGamer [DE | Deutsch] [+ Giveaway]](https://www.youtube.com/watch?v=oKp9BUWQBLA)
-- [World of Warships | Stream](https://www.youtube.com/watch?v=rE_UxUNXQa0)
-- [FreeLife - Official Trailer [Deutsch/HD]](https://www.youtube.com/watch?v=uDO_6B5KmnE)
-<!-- YOUTUBE:END -->
-
----
 <p align="left">
 <img align="center" alt="UltimatumGamer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UltimatumGamer&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
----
 
 ### 📈 WakaTime Stats
 <img src="https://wakatime.com/share/@UltimatumGamer/2ae9fb74-5fee-42f9-8a9f-1c9a9218f129.svg">
