@@ -52,8 +52,6 @@
 
 <img align="center" alt="UltimatumGamer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UltimatumGamer&show_icons=true&hide_border=true&count_private=true" />
 
-<br />                                                                                                 
-
 <img align="center"  alt="UltimatumGamer's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltimatumGamer&hide_border=true&count_private=true" />
 
 <br />
@@ -64,7 +62,7 @@
 <br /> 
 
 ### WakaTime Stats
-<img width="50%" src="https://wakatime.com/share/@UltimatumGamer/2ae9fb74-5fee-42f9-8a9f-1c9a9218f129.svg">
+<img width="75%" src="https://wakatime.com/share/@UltimatumGamer/2ae9fb74-5fee-42f9-8a9f-1c9a9218f129.svg">
 
 
 [website]: https://pedda.digital
