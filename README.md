@@ -61,7 +61,7 @@
 ---
 
 ### WakaTime Stats
-<figure><embed src="https://wakatime.com/share/@UltimatumGamer/2ae9fb74-5fee-42f9-8a9f-1c9a9218f129.svg"></embed></figure>
+<img src="https://wakatime.com/share/@UltimatumGamer/2ae9fb74-5fee-42f9-8a9f-1c9a9218f129.svg">
 
 
 [website]: https://pedda.digital
