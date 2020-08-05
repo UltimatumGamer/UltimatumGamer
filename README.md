@@ -37,12 +37,14 @@
 <br />
 <br />
 
+## 📈 Github Stats
+
 <p align="left">
 <img align="center" alt="UltimatumGamer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UltimatumGamer&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 
-### 📈 WakaTime Stats
+## 📈 WakaTime Stats
 <img src="https://wakatime.com/share/@UltimatumGamer/2ae9fb74-5fee-42f9-8a9f-1c9a9218f129.svg">
 
 
