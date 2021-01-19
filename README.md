@@ -12,7 +12,7 @@
   - [UltimatumGamer.tech](https://ultimatumgamer.tech/) (soon)
   - School
     - Air Quality Meter
-    - Parking Lot Management
+    - Parking Lot Management System
 
 ## Social Media
 
