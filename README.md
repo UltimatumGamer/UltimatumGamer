@@ -7,8 +7,12 @@
     - [SV-Studios Image-Server](https://image.sv-studios.net/)
     - [SV-Studios Stats-Seite](https://stats.sv-studios.net/)
     - [SV-Studios Image-Manipulation](https://edit.sv-studios.net/) (soon)
-- [Pedda.Digital](https://pedda.digital/)
-- [UltimatumGamer.tech](https://ultimatumgamer.tech/) (soon)
+- Private
+  - [Pedda.Digital](https://pedda.digital/)
+  - [UltimatumGamer.tech](https://ultimatumgamer.tech/) (soon)
+  - School
+    - Air Quality Meter
+    - Parking Lot Management
 
 ## Social Media
 
