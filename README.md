@@ -53,8 +53,7 @@
 
 
 ## 📈 WakaTime Stats
-<img src="https://wakatime.com/share/@UltimatumGamer/2ae9fb74-5fee-42f9-8a9f-1c9a9218f129.svg">
-
+<img src="https://wakatime.com/share/@UltimatumGamer/80feaa07-bd2b-4189-bc0f-20b1fd302786.svg">
 
 [website]: https://pedda.digital
 [twitter]: https://twitter.com/ultimatumgamer1
