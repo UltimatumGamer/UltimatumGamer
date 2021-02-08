@@ -48,7 +48,7 @@
 ## 📈 Github Stats
 
 <p align="left">
-<img align="center" alt="UltimatumGamer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UltimatumGamer&show_icons=true&count_private=true&theme=prussian&bg_color=0000" />
+<img align="center" alt="UltimatumGamer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=UltimatumGamer&show_icons=true&hide_border=true&count_private=true&theme=prussian&bg_color=0000" />
 </p>
 
 
