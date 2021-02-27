@@ -14,7 +14,7 @@
 
   - [UltimatumGamer.tech](https://ultimatumgamer.tech/) (soon)
   - School
-    - Air Quality Meter
+    - [Air Quality Meter](https://dashboard.pedda.digital/en/thermometer)
     - Parking Lot Management System
 
 ## Social Media
