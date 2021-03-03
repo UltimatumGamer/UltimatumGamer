@@ -11,6 +11,7 @@
   - [Pedda.Digital](https://pedda.digital/)
     - [Dashboard](https://dashboard.pedda.digital/) 
     - [Desktop App](https://dashboard-app.pedda.digital/) 
+    - [Android App](https://github.com/UltimatumGamer/P-DashboardMobileApp/releases)
 
   - [UltimatumGamer.tech](https://ultimatumgamer.tech/) (soon)
   - School
