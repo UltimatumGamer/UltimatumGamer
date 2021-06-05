@@ -13,7 +13,6 @@
     - [Desktop App](https://dashboard-app.pedda.digital/) 
     - [Android App](https://github.com/UltimatumGamer/P-DashboardMobileApp/releases)
 
-  - [UltimatumGamer.tech](https://ultimatumgamer.tech/) (soon)
   - School
     - [Air Quality Meter](https://dashboard.pedda.digital/en/thermometer)
     - Parking Lot Management System
