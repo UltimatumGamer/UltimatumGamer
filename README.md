@@ -17,6 +17,11 @@
     - [Air Quality Meter](https://dashboard.pedda.digital/en/thermometer)
     - Parking Lot Management System
 
+## Stats
+
+![Metrics](https://github.com/UltimatumGamer/UltimatumGamer/blob/master/github-metrics.svg)
+
+
 ## Social Media
 
 [<img align="left" alt="ultimatumgamer | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
