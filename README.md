@@ -7,6 +7,7 @@
     - [SV-Studios Image-Server](https://image.sv-studios.net/)
     - [SV-Studios Stats-Seite](https://stats.sv-studios.net/)
     - SV-Studios Image-Manipulation (soon)
+    - SV-Studios SingleSignOn/SSO (soon)
 - Private
   - [Pedda.Digital](https://pedda.digital/)
     - [Dashboard](https://dashboard.pedda.digital/) 
