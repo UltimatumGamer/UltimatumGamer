@@ -1556,22 +1556,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 47.43516350073727%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">59%</span>
+                            <div class="bar" style="width: 41.14664182965953%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">51%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 27.985081099835195%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">35%</span>
+                            <div class="bar" style="width: 33.389216599399774%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">42%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Handlebars</span>
-                            <div class="bar" style="width: 3.677682366206956%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.387871261512988%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.9020730332205742%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.076270309427714%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -2806,7 +2806,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="123.5568626379376 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="123.56361199684488 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3283,7 +3283,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26/07/2021, 12:28 (timezone Europe/Berlin) with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 26/07/2021, 13:14 (timezone Europe/Berlin) with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
