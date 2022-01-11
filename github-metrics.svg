@@ -428,32 +428,32 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 70.41291645643788%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 70.19312733084709%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">88%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 7.549356293029085%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">9%</span>
+                            <div class="bar" style="width: 7.722429408630794%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">10%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Handlebars</span>
-                            <div class="bar" style="width: 1.6379941732719194%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.675546084176878%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 0.2838495467196172%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.2903569525839105%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.06770723132761511%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.06925945657964837%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.04817629921387998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.04928076718167289%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2317,7 +2317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2022, 06:13:32 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 11 Jan 2022, 07:15:56 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
