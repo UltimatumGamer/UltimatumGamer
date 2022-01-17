@@ -1,5 +1,7 @@
 # Hi there, I'm [UltimatumGamer][website] 👋
 
+***--> Switched to [Gitlab][gitlab]***
+
 ## Projects / Websites
 - [Zyonic Software](https://zyonicsoftware.com/)
   - [SV-Studios](https://sv-studios.net/)
@@ -23,6 +25,7 @@
 ![Metrics](https://github.com/UltimatumGamer/UltimatumGamer/blob/master/github-metrics.svg)
 
 [website]: https://pedda.digital
+[gitlab]: https://gitlab.zyonicsoftware.com/UltimatumGamer/
 [twitter]: https://twitter.com/ultimatumgamer1
 [youtube]: https://www.youtube.com/channel/UCHAwnRWgTi3Pp_T6cHBSr4Q
 [instagram]: https://instagram.com/ultimatumgamer1
