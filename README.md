@@ -1,6 +1,5 @@
 # Hi there, I'm [UltimatumGamer][website] 👋
-
-***--> Switched to [Gitlab][gitlab]***
+**--> Switched to [Gitlab][gitlab]**
 
 ## Projects / Websites
 - [Zyonic Software](https://zyonicsoftware.com/)
@@ -21,7 +20,7 @@
     - Parking Lot Management System
 
 ## Stats
-
+[![wakatime](https://wakatime.com/badge/user/0491e8de-5c83-454d-bc08-24d9521cee16.svg)](https://wakatime.com/@0491e8de-5c83-454d-bc08-24d9521cee16)
 ![Metrics](https://github.com/UltimatumGamer/UltimatumGamer/blob/master/github-metrics.svg)
 
 [website]: https://pedda.digital
