@@ -1,23 +1,20 @@
 # Hi there, I'm [UltimatumGamer][website] 👋
-**--> Switched to [Gitlab][gitlab]**
+
+## Primarily, you can find me across various GitLab instances:
+1. [Gitlab PSH](https://gitlab.psh.services/ultimatumgamer)
+2. [Gitlab Zyonic](https://gitlab.zyonicsoftware.com/UltimatumGamer)
+3. [Gitlab TU-Ilemanau](https://gitlab.tu-ilmenau.de/pele7932)
 
 ## Projects / Websites
-- [Zyonic Software](https://zyonicsoftware.com/)
+- [Zyonic Software](https://zyonicsoftware.com/) 
   - [SV-Studios](https://sv-studios.net/)
-    - [SV-Studios Paste-Server](https://paste.sv-studios.net/)
-    - [SV-Studios Image-Server](https://image.sv-studios.net/)
-    - [SV-Studios Stats-Seite](https://stats.sv-studios.net/)
-    - SV-Studios Image-Manipulation (soon)
-    - SV-Studios SingleSignOn/SSO (soon)
+    - [Paste-Server](https://paste.sv-studios.net/)
+    - [Image-Server](https://image.sv-studios.net/)
+    - [Url-Shorter](https://url.sv-studios.net/)
+    - [Discord Bot Webinterface](https://panel.sv-studios.net/)
 - Private
   - [Pedda.Digital](https://pedda.digital/)
     - [Dashboard](https://dashboard.pedda.digital/) 
-    - [Desktop App](https://dashboard-app.pedda.digital/) 
-    - [Android App](https://github.com/UltimatumGamer/P-DashboardMobileApp/releases)
-
-  - School
-    - [Air Quality Meter](https://dashboard.pedda.digital/en/thermometer)
-    - Parking Lot Management System
 
 ## Stats
 [![wakatime](https://wakatime.com/badge/user/0491e8de-5c83-454d-bc08-24d9521cee16.svg)](https://wakatime.com/@0491e8de-5c83-454d-bc08-24d9521cee16)
