@@ -3,7 +3,7 @@
 ## Primarily, you can find me across various GitLab instances:
 1. [Gitlab PSH](https://gitlab.psh.services/ultimatumgamer)
 2. [Gitlab Zyonic](https://gitlab.zyonicsoftware.com/UltimatumGamer)
-3. [Gitlab TU-Ilemanau](https://gitlab.tu-ilmenau.de/pele7932)
+3. [Gitlab TU-Ilmenau](https://gitlab.tu-ilmenau.de/pele7932)
 
 ## Projects / Websites
 - [Zyonic Software](https://zyonicsoftware.com/) 
